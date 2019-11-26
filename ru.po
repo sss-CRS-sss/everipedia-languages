@@ -26,14 +26,14 @@ msgstr "+ Создать учетную запись / Логин"
 #. 0 Messages
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Messages"
-msgstr "Сообщения"
+msgstr "0 Сообщений"
 
 #. [Chat.NoParticipants]
 #. defaultMessage is:
 #. 0 Participants
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Participants"
-msgstr "Участники"
+msgstr "0 Участников"
 
 #. [DashboardComponent.OneMonth]
 #. defaultMessage is:
@@ -75,14 +75,14 @@ msgstr "3 месяца"
 #. 6 MONTHS
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "6 MONTHS"
-msgstr "6 МОНТГИ"
+msgstr "6 месяцев"
 
 #. [DashboardComponent.SevenDays]
 #. defaultMessage is:
 #. 7 DAYS
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "7 DAYS"
-msgstr "7 ДЕНЕЙСОВ"
+msgstr "7 дней"
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
@@ -119,7 +119,7 @@ msgstr "ИСТОРИЯ СТАТЬИ"
 #. ARTICLE VIEWS
 #: public/messages/src/app/containers/admin/admin.container.json
 msgid "ARTICLE VIEWS"
-msgstr "СТАТЬЯ VIEWS"
+msgstr "ПРОСМОТРЫ СТАТЬИ"
 
 #. [Stats.Articles]
 #. defaultMessage is:
@@ -232,7 +232,7 @@ msgstr "Аккаунт"
 #. Account Issues
 #: public/messages/src/app/containers/contact-us/messages.json
 msgid "Account Issues"
-msgstr "Аккаунт"
+msgstr "Багтрек аккаунта"
 
 #. [EditProfile.AccountName]
 #. defaultMessage is:
@@ -277,7 +277,7 @@ msgstr "Активное Голосование"
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "Activity"
-msgstr "Достигнут предел действия"
+msgstr "Активнось"
 
 #. [InfoboxModal.Add]
 #. defaultMessage is:
